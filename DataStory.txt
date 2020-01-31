@@ -1,0 +1,10 @@
+Crime Data Analysis
+
+
+"Medical Negligence Eliminates Half Of The Life In Boston:
+
+The dataset used for the study extends the crime details of the country till the last year of the previous decade. The study aklso revealed some of the shocking and interesting factors.
+The biggest crime happening in the country is due to the Motor Vechile accidents, and its is followed by Medical Assistance. Considering the fact that the Accidents occurs due to the careless behaviour of one or more people and it is quit natural
+But the latter one is of more certain reasons and it is clearly due to the carless behviour of the medical professionals.
+The Washington City has the most prevaling medical assistance crimes through out the year. The data suggests that the higher rates were occured in the 6th and 7th month also during the early morning time . This may be because of the weak physical conditions of the medical professionals caused by lack of sleep etc.
+Flexible and proper working time should be given for the professionals to ensure the wellness of those people who are in charge of saving other people 
